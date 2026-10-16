@@ -1,4 +1,4 @@
 ## Hi there 👋
 
 
-- a ML entheusiast that's trying to make a legend out of his story.
+- a ML enthusiast that's trying to make a legend out of his story.
