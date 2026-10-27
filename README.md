@@ -5,7 +5,7 @@
 
 
 
-<?php
+"/*<?php
 $host = '192.168.56.101';
 $username = 'remote_user';
 $password = 'votre_mot_de_passe';
@@ -32,3 +32,4 @@ if ($result->num_rows > 0) {
 }
 $conn->close();
 ?>
+*/"
